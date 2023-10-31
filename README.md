@@ -1,52 +1,60 @@
-# Hello, I'm [Your Name]
+# Hello, I'm Oussama Yaagoub
 
-Welcome to my GitHub profile! 👋 I'm a [Your Profession] actively seeking remote job opportunities. I'm passionate about [Your Interests] and have experience in [Your Skills]. You can find me on various social media platforms:
+Welcome to my GitHub profile! 👋 I'm actively seeking remote job opportunities in the field of web development and software engineering. I have a passion for coding and a diverse skill set that includes:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile)
+- PHP
+- Python
+- Java
+- HTML
+- CSS
+- Pug
+- SCSS
+- JavaScript
+- jQuery
+- Laravel
+- Django
+- Spring (Java)
+
+You can find me on various social media platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/oussama-yaagoub)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-lightgrey)](https://twitter.com/your-handle)
 [![Personal Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://www.yourwebsite.com)
 
 ## About Me
 
-- Briefly introduce yourself and your career objectives.
-- Highlight your key skills and experiences.
-- Mention why you are interested in remote job opportunities.
-- You can also include a professional summary.
-
-## My Interests
-
-- List a few interests or hobbies that give potential employers a glimpse of your personality.
-- This can help create a more personal connection.
+I'm a web developer with expertise in both front-end and back-end technologies. My experience spans multiple programming languages and frameworks. I'm enthusiastic about working on challenging projects and continually improving my skills.
 
 ## Skills
 
-- Create a list of your top skills, which can include programming languages, tools, or any other relevant competencies.
+- PHP, Python, Java, HTML, CSS, Pug, SCSS, JavaScript, jQuery
+- Proficient in web development frameworks: Laravel, Django, Spring (Java)
 
 ## Experience
 
-- Provide a summary of your professional experience, including past roles, companies, and major achievements.
-- Mention any remote work or relevant experience.
-- You can provide links to your LinkedIn profile for a more detailed work history.
+I've had the privilege to work on several projects, including:
 
-## Projects
+- [Project 1](#): A full-stack web application developed using Laravel and JavaScript.
+- [Project 2](#): An e-commerce website built with Django and Python.
+- [Project 3](#): Java-based enterprise application using the Spring framework.
 
-- If you have relevant projects on GitHub or elsewhere, link to them with descriptions.
-- Mention if you've contributed to open-source projects or have personal projects that demonstrate your skills.
+I'm passionate about crafting elegant, functional, and maintainable code.
 
 ## Education
 
-- Mention your educational background, including degrees, institutions, and graduation dates.
+- B.S. in Computer Science from [Your University], Graduated [Year]
 
 ## Contact Me
 
-- Include a section where you provide ways for potential employers to contact you.
-- You can provide an email address, LinkedIn profile, or any other preferred contact method.
+I'm open to collaboration and new job opportunities. Feel free to contact me:
+
+- Email: [Your Email Address]
+- [LinkedIn](https://www.linkedin.com/in/oussama-yaagoub)
 
 ## Availability
 
-- Mention your current availability for remote job opportunities.
-- You can specify your time zone and preferred working hours.
+I'm currently seeking remote job opportunities. I'm in the [Your Time Zone] time zone and can be reached during [Your Working Hours].
 
 ---
 
-Feel free to personalize this template to match your specific background, skills, and interests. Using badges and links to social media profiles can make your GitHub profile more interactive and appealing to potential employers.
+Feel free to tailor this template to your personal preferences, and make sure to replace placeholder text with your actual information. This GitHub profile README will help you present your skills and interests to potential employers or collaborators.
