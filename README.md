@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Oussama Yaagoub  👋
 
 Welcome to my GitHub profile! I'm a [Your Profession] passionate about [Your Interests/Hobbies]. Here you'll find a collection of my open-source projects, contributions, and more.
 
