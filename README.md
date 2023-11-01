@@ -17,7 +17,7 @@ Welcome to my GitHub profile! 👋 I'm actively seeking remote job opportunities
 
 You can find me on various social media platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/oyaagoub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]( www.linkedin.com/in/oyaagoub )
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-lightgrey)](https://twitter.com/OYaagoub_)
 [![Personal Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://www.yaagoub.com)
 
