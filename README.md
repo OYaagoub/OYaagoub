@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! 👋 I'm actively seeking remote job opportunities in the field of web development and software engineering. I have a passion for coding and a diverse skill set that includes:
 
-- PHP
-- Python
-- Java
+- PHP             - Spring (Java)
+- Python          - Django
+- Java            - Laravel
 - HTML
 - CSS
 - Pug
@@ -13,7 +13,7 @@ Welcome to my GitHub profile! 👋 I'm actively seeking remote job opportunities
 - jQuery
 - Laravel
 - Django
-- Spring (Java)
+
 
 You can find me on various social media platforms:
 
