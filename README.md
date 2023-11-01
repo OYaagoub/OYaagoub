@@ -18,8 +18,8 @@ Welcome to my GitHub profile! 👋 I'm actively seeking remote job opportunities
 You can find me on various social media platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/oyaagoub)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-lightgrey)](https://twitter.com/your-handle)
-[![Personal Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://www.yourwebsite.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-lightgrey)](https://twitter.com/OYaagoub_)
+[![Personal Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://www.yaagoub.com)
 
 ## About Me
 
@@ -42,19 +42,17 @@ I'm passionate about crafting elegant, functional, and maintainable code.
 
 ## Education
 
-- B.S. in Computer Science from [Your University], Graduated [Year]
+- IES Juan Bosco (DAW)
 
 ## Contact Me
 
 I'm open to collaboration and new job opportunities. Feel free to contact me:
 
 - Email: [Your Email Address]
-- [LinkedIn](https://www.linkedin.com/in/oussama-yaagoub)
+- [LinkedIn](www.linkedin.com/in/oyaagoub)
 
 ## Availability
 
-I'm currently seeking remote job opportunities. I'm in the [Your Time Zone] time zone and can be reached during [Your Working Hours].
+I'm currently seeking remote job opportunities. I'm in the Madrid time zone 
 
 ---
-
-Feel free to tailor this template to your personal preferences, and make sure to replace placeholder text with your actual information. This GitHub profile README will help you present your skills and interests to potential employers or collaborators.
