@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/OYaagoub](https://github.com/OYaagoub)
 
-- 📝 I regularly write articles on [https://yaagoub.com/](https://yaagoub.org/)
+- 📝 I regularly write articles on [https://yaagoub.org/](https://yaagoub.org/)
 
 - 💬 Ask me about **Angular , Laravel , Django , SpringBoot , CI/CD , nextJs.....**
 
