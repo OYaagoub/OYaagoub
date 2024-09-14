@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Angular , Laravel , Django , SpringBoot , CI/CD , nextJs.....**
 
-- 📫 How to reach me **re-message@yaagoub.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/oyaagoub/](https://www.linkedin.com/in/oyaagoub/)
 
 <h3 align="left">Connect with me:</h3>
